@@ -1,2 +1,2 @@
-# munozcar-github.edu
+# munozcar.github.io
 Research website
